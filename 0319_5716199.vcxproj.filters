@@ -18,7 +18,7 @@
     <ClCompile Include="0319_5716199_팩토리얼.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
-    <ClCompile Include="0319_5716199_거듭제곱의합.cpp">
+    <ClCompile Include="0319_5716199_거듭제곱의합.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
   </ItemGroup>
