@@ -129,6 +129,7 @@
   <ItemGroup>
     <ClCompile Include="0319_5716199_거듭제곱의합.c" />
     <ClCompile Include="0319_5716199_팩토리얼.c" />
+    <ClCompile Include="0401_5716199_다항식의곱셈2.c" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">

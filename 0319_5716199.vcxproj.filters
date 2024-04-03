@@ -21,5 +21,8 @@
     <ClCompile Include="0319_5716199_거듭제곱의합.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="0401_5716199_다항식의곱셈2.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
